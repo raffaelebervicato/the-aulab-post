@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+
+/* Personalizzazioni globali */
+body {
+    background-color: #f8f9fa;
+    font-family: "Poppins", sans-serif;
+}
+.navbar-brand {
+    font-weight: 600;
+    color: #212529 !important;
+}
+
+.card { border-radius: 1rem; }
