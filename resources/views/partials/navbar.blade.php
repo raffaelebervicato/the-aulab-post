@@ -51,7 +51,7 @@
             </li>
           @endif
 
-          {{-- 🔴 Logout diretto accanto ai pulsanti --}}
+          {{--  Logout diretto accanto ai pulsanti --}}
           <li class="nav-item me-2">
             <form action="{{ route('logout') }}" method="POST" class="d-inline">
               @csrf
